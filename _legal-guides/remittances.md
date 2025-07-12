@@ -1,7 +1,7 @@
 ---
-title: "How to Send Remittances Safely from the United States"
-permalink: /legal-guides/remittances/
 layout: single
+title: "How to Send Remittances Safely"
+permalink: /legal-guides/remittances/
 author_profile: false
 ---
 
