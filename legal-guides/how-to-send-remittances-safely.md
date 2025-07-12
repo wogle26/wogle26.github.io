@@ -1,8 +1,8 @@
 ---
-title: "How to Send Remittances Safely from the United States"
-permalink: /legal-guides/how-to-send-remittances-safely/
-layout: page
-description: A legal and financial guide for immigrants who send money to family abroad, including rights, risks, and best practices.
+layout: single
+title: "How to Send Remittances Safely"
+permalink: /legal-guides/remittances/
+author_profile: false
 ---
 
 ## Why This Matters
