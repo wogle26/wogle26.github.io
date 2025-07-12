@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Cómo solicitar asilo"
+permalink: /legal-guides-es/como-solicitar-asilo/
+author_profile: false
+---
 ## ¿Qué es el asilo?
 
 El asilo es una protección legal para personas que ya se encuentran en los Estados Unidos y temen regresar a su país de origen debido a persecución por motivos de:
