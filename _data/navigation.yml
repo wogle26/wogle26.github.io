@@ -1,9 +1,24 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Home"
+    url: /
+
+  - title: "Legal Guides"
+    url: /legal-guides/
+
+  - title: "Form Help"
+    url: /form-help/
+
+  - title: "Find Legal Aid"
+    url: /legal-aid/
+
+  - title: "Know Your Rights"
+    url: /know-your-rights/
+
+  - title: "Glossary"
+    url: /glossary/
+
+  - title: "Resources"
+    url: /resources/
+
   - title: "About"
     url: /about/
