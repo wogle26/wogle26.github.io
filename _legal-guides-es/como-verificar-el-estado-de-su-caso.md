@@ -1,88 +1,88 @@
 ---
 layout: single
-title: "Cómo verificar el estado de su caso de inmigración"
+title: "Cómo verificar el estado de su caso"
 permalink: /legal-guides-es/como-verificar-el-estado-de-su-caso/
 author_profile: false
 ---
 
-## Why Check Your Case Status?
+## ¿Por qué verificar el estado de su caso?
 
-If you’ve submitted a petition, application, or been placed into immigration court proceedings, it’s important to track your case regularly. You may receive hearing notices, deadlines, or other updates — and missing one could harm your case.
-
----
-
-## Option 1: If Your Case Is with USCIS
-
-This applies to most immigration forms like:
-- Green card applications (I-485)
-- Work permits (I-765)
-- Family petitions (I-130)
-- Naturalization (N-400)
-- Asylum applications (I-589, if not in court yet)
-
-### How to Check:
-1. Go to: [uscis.gov/casestatus](https://egov.uscis.gov/casestatus/)
-2. Enter your 13-character receipt number (example: EAC1234567890)
-   - This is found on your receipt notice (Form I-797C)
-
-### What You'll See:
-- “Case Was Received”
-- “Fingerprint Fee Was Received”
-- “Case Was Approved”
-- “RFE Was Sent” (Request for Evidence)
-- “Card Was Mailed”
-
-Each status will include a brief explanation.
+Si ha enviado una solicitud migratoria o ha sido citado a la corte de inmigración, es crucial verificar el estado de su caso con regularidad. Puede recibir avisos de audiencia, solicitudes de evidencia o decisiones. Ignorar una actualización podría perjudicar seriamente su situación.
 
 ---
 
-## Option 2: If You Are in Immigration Court
+## Opción 1: Si su caso está con USCIS
 
-This applies if you’ve received a Notice to Appear (NTA) or are facing removal proceedings.
+Esto se aplica a la mayoría de los formularios, como:
 
-### How to Check:
-1. Call the EOIR Case Status Hotline:  
-   📞 **1-800-898-7180** (toll-free, 24/7)  
-   OR  
-   Visit: [acis.eoir.justice.gov](https://acis.eoir.justice.gov/en/)
+- Solicitudes de tarjeta verde (I-485)  
+- Permisos de trabajo (I-765)  
+- Peticiones familiares (I-130)  
+- Naturalización (N-400)  
+- Solicitudes de asilo (I-589, si no está en corte)
 
-2. Enter your A-number (starts with “A” and has 9 digits)
+### Cómo verificar:
 
-### What You'll See:
-- Your next hearing date and time
-- Location of the court
-- Type of proceeding (master calendar or individual hearing)
-- Current status (pending, ordered removed, granted relief, etc.)
+1. Vaya a: [uscis.gov/casestatus](https://uscis.gov/casestatus)  
+2. Ingrese su número de recibo de 13 caracteres (ejemplo: EAC1234567890)  
+3. Este número se encuentra en su aviso de recibo (Formulario I-797C)
 
----
+### Qué verá:
 
-## What If You See No Updates?
+- “Case Was Received” – Caso recibido  
+- “Fingerprint Fee Was Received” – Pago de huellas recibido  
+- “Case Was Approved” – Caso aprobado  
+- “RFE Was Sent” – Solicitud de evidencia enviada  
+- “Card Was Mailed” – Tarjeta enviada
 
-- If USCIS: Make sure your receipt number is correct and hasn’t expired
-- If EOIR: You may not be scheduled yet — check back weekly
-- Always make sure your **mailing address is current** with USCIS or the court
-
-To update your address:
-- USCIS: [uscis.gov/addresschange](https://www.uscis.gov/addresschange)
-- EOIR: Submit Form EOIR-33 to your local immigration court
+Cada estado incluye una breve explicación.
 
 ---
 
-## Watch Out for These Issues
+## Opción 2: Si está en proceso en la corte de inmigración
 
-- **Wrong site** — Don’t check USCIS if your case is in court (EOIR), and vice versa
-- **Scams** — Only check your status through official government websites
-- **Old receipt numbers** — Cases that are over 2 years old may no longer update online
+Esto se aplica si recibió un Aviso de Comparecencia (NTA) o enfrenta un proceso de deportación.
+
+### Cómo verificar:
+
+- Llame a la línea directa de EOIR: **📞 1-800-898-7180** (disponible 24/7, en inglés y español)  
+**O**  
+- Visite: [acis.eoir.justice.gov](https://acis.eoir.justice.gov)
+
+Ingrese su número de extranjero (A-number), que comienza con "A" y tiene 9 dígitos.
+
+### Qué verá:
+
+- Fecha y hora de su próxima audiencia  
+- Ubicación de la corte  
+- Tipo de audiencia (calendario maestro o audiencia individual)  
+- Estado actual (pendiente, orden de remoción, alivio aprobado, etc.)
 
 ---
 
-## Helpful Links
+## ¿Qué hacer si no hay actualizaciones?
 
-- [USCIS Case Status Checker](https://egov.uscis.gov/casestatus/)
-- [EOIR Automated Case Info](https://acis.eoir.justice.gov/en/)
-- [USCIS Address Change](https://www.uscis.gov/addresschange)
-- [Form EOIR-33 (Address Change for Court)](https://www.justice.gov/eoir/page/file/1123026/download)
+- **USCIS:** Asegúrese de ingresar correctamente su número de recibo y que su caso aún esté activo.  
+- **EOIR:** Es posible que su audiencia aún no haya sido programada — vuelva a consultar semanalmente.  
+
+Siempre mantenga su dirección actualizada:
+
+- **USCIS:** [uscis.gov/addresschange](https://www.uscis.gov/addresschange)  
+- **EOIR:** Envíe el Formulario EOIR-33 a su corte de inmigración local
 
 ---
 
-## Spanish Version Coming Soon
+## Problemas comunes
+
+- **Confusión entre agencias:** No verifique en USCIS si su caso está en corte, y viceversa  
+- **Estafas:** Use solo sitios web oficiales del gobierno  
+- **Números antiguos:** Los casos de más de 2 años pueden no mostrar actualizaciones en línea
+
+---
+
+## Enlaces útiles
+
+- [Verificar estado de USCIS](https://uscis.gov/casestatus)  
+- [Información automatizada de EOIR](https://acis.eoir.justice.gov)  
+- [Cambio de dirección con USCIS](https://www.uscis.gov/addresschange)  
+- [Formulario EOIR-33](https://www.justice.gov/eoir/eoir-forms)
