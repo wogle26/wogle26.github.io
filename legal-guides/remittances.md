@@ -99,4 +99,4 @@ If your money was lost, delayed, or misused:
 - [CFPB: Remittance Transfer Rule](https://www.consumerfinance.gov/)
 - [USCIS Consumer Rights Overview](https://www.uscis.gov/)
 - [World Bank: Compare Remittance Costs](https://remittanceprices.worldbank.org/)
-- [FTC: Wire Transfer Scams](https://consumer.ftc.gov/)
+- [FTC: Wire Transfer Scams](https://consumer.ftc.gov/) 
