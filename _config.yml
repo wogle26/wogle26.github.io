@@ -119,4 +119,7 @@ collections:
     output: true
     permalink: /legal-guides-es/:path/
     force_rebuild: true
-    
+    collections:
+  legal-guides:
+    output: true
+    permalink: /legal-guides/:path/
