@@ -1,66 +1,66 @@
 ---
 layout: single
-title: "¿Qué es el proceso consular y cómo funciona?"
+title: "Qué es el proceso consular y cómo funciona"
 permalink: /legal-guides-es/que-es-el-proceso-consular-y-como-funciona/
 author_profile: false
 ---
 
-## What Is Consular Processing?
+## ¿Qué es el proceso consular?
 
-Consular processing is the method used by individuals **outside the United States** to apply for an immigrant visa (green card). After USCIS approves a petition (like Form I-130), the case is transferred to the **National Visa Center (NVC)** and then to a U.S. consulate or embassy in the applicant’s home country.
+El proceso consular es el método utilizado por personas que se encuentran fuera de los Estados Unidos para solicitar una visa de inmigrante (tarjeta verde). Después de que USCIS aprueba una petición (como el Formulario I-130), el caso se transfiere al Centro Nacional de Visas (NVC) y luego a un consulado o embajada de EE.UU. en el país del solicitante.
 
----
+## ¿Quién usa el proceso consular?
 
-## Who Uses Consular Processing?
+- Familiares de ciudadanos estadounidenses o residentes permanentes que solicitan desde el extranjero  
+- Personas con peticiones basadas en empleo fuera de EE.UU.  
+- Ganadores de la lotería de visas de diversidad (DV Lottery)
 
-- Most relatives of U.S. citizens or green card holders applying from abroad
-- Employment-based immigrants outside the U.S.
-- Diversity visa (lottery) winners
+## Proceso paso a paso
 
----
+### USCIS aprueba la petición de inmigrante
 
-## Step-by-Step Process
+Generalmente el Formulario I-130 (familia) o I-140 (empleo)
 
-1. **USCIS Approves the Immigrant Petition**
-   - Usually Form I-130 (family) or I-140 (employment)
+### El caso se envía al Centro Nacional de Visas (NVC)
 
-2. **Case Sent to National Visa Center (NVC)**
-   - NVC assigns a case number  
-   - You pay required fees and submit documents online via the **Consular Electronic Application Center (CEAC)**
+- El NVC asigna un número de caso  
+- Usted paga las tarifas requeridas y presenta documentos en línea a través del sistema CEAC
 
-3. **Submit Required Documents**
-   - Affidavit of Support (Form I-864) from the sponsor  
-   - Civil documents (birth certificate, police records, passport scans, etc.)
+### Envíe los documentos requeridos
 
-4. **Schedule a Visa Interview**
-   - Once the case is “documentarily complete,” the embassy will schedule an interview
+- Declaración de sostenimiento económico (Formulario I-864) del patrocinador  
+- Documentos civiles (acta de nacimiento, antecedentes penales, escaneo del pasaporte, etc.)
 
-5. **Attend the Interview**
-   - Bring originals of all documents  
-   - You may be asked detailed questions about your background, finances, or relationship with the sponsor
+### Programe una entrevista
 
-6. **Medical Exam**
-   - Required before the interview at a doctor authorized by the U.S. embassy
+Una vez que el caso está “documentalmente completo”, la embajada le asignará una fecha para la entrevista
 
-7. **Receive a Decision**
-   - If approved, you’ll receive a visa and instructions to enter the U.S.  
-   - You’ll receive your green card by mail after arrival
+### Asista a la entrevista
 
----
+- Lleve los originales de todos los documentos  
+- Pueden hacerle preguntas detalladas sobre su historial, finanzas o relación con el patrocinador
 
-## Timeline
+### Examen médico
 
-The timeline varies based on:
-- Visa category
-- Country of origin
-- Embassy processing speed
+Debe hacerse antes de la entrevista con un médico autorizado por la embajada
 
-You can check case status at [ceac.state.gov](https://ceac.state.gov/)
+### Reciba una decisión
 
----
+- Si se aprueba, recibirá su visa y las instrucciones para ingresar a EE.UU.  
+- Recibirá su tarjeta verde por correo después de su llegada
 
-## Resources
+## Cronograma
 
-- [Consular Processing Overview – USCIS](https://www.uscis.gov/green-card/consular-processing)
-- [NVC Information](https://travel.state.gov/content/travel/en/us-visas/immigrate/nvc.html)
-- [CEAC Portal](https://ceac.state.gov/)
+El tiempo de procesamiento varía según:
+
+- La categoría de visa  
+- El país de origen  
+- La velocidad de procesamiento de la embajada
+
+Puede verificar el estado del caso en: [ceac.state.gov](https://ceac.state.gov)
+
+## Recursos
+
+- [Información general sobre el proceso consular – USCIS](https://www.uscis.gov/green-card/consular-processing)  
+- [Centro Nacional de Visas (NVC)](https://travel.state.gov/content/travel/en/us-visas/immigrate/national-visa-center.html)  
+- [Portal CEAC](https://ceac.state.gov/ceac/)
