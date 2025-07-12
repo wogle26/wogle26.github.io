@@ -1,54 +1,55 @@
 ---
 layout: single
-title: "Qué hacer si su caso de inmigración está retrasado"
+title: "Qué hacer si su caso está retrasado"
 permalink: /legal-guides-es/que-hacer-si-su-caso-esta-retrasado/
 author_profile: false
 ---
 
-## What Counts as a Delay?
+## ¿Qué se considera un retraso?
 
-Immigration applications can take months or even years to process. A delay becomes a concern when your case:
-- Exceeds the normal processing time  
-- Has no updates for many months  
-- Shows no progress on the USCIS or EOIR case tracker
+Las solicitudes de inmigración pueden tardar meses o incluso años en procesarse. Un retraso es motivo de preocupación cuando su caso:
 
----
+- Supera el tiempo de procesamiento normal  
+- No ha tenido actualizaciones durante muchos meses  
+- No muestra avances en el rastreador de casos de USCIS o EOIR  
 
-## Step-by-Step: How to Follow Up
+## Paso a paso: cómo hacer seguimiento
 
-1. **Check Current Processing Times**
-   - Use the [USCIS Processing Time Tool](https://egov.uscis.gov/processing-times/)
-   - Compare with your form, location, and service center
+### Revise los tiempos de procesamiento actuales
 
-2. **Use the USCIS Case Status Tracker**
-   - Visit: [uscis.gov/casestatus](https://egov.uscis.gov/casestatus/)
-   - Enter your receipt number to see updates
+- Use la herramienta de tiempos de procesamiento de USCIS  
+- Compare según su formulario, ubicación y centro de servicio  
 
-3. **Submit an Online Inquiry**
-   - Use the [USCIS Case Inquiry Tool](https://egov.uscis.gov/e-request/displayONPTForm.do) if your case is outside normal time
+### Use el rastreador de casos de USCIS
 
-4. **Call USCIS or EOIR**
-   - USCIS Customer Service: 1-800-375-5283  
-   - EOIR Case Info: 1-800-898-7180
+- Visite: [uscis.gov/casestatus](https://www.uscis.gov/casestatus)  
+- Ingrese su número de recibo para ver actualizaciones  
 
-5. **Contact Your U.S. Congressperson**
-   - Many elected officials have a casework department that can request updates for you
+### Envíe una consulta en línea
 
-6. **Consider a Mandamus Lawsuit** (last resort)
-   - For extreme delays, you may file a federal lawsuit to compel a decision  
-   - Always consult a licensed immigration attorney before pursuing legal action
+- Use la herramienta de consulta de casos de USCIS si su caso está fuera del tiempo normal  
 
----
+### Llame a USCIS o EOIR
 
-## When Not to Worry
+- Atención al cliente de USCIS: 1-800-375-5283  
+- Información de casos de EOIR: 1-800-898-7180  
 
-- If your case is still **within published processing times**
-- If you recently submitted documents or attended an interview (some delay is normal afterward)
+### Contacte a su congresista
 
----
+- Muchos funcionarios electos tienen oficinas que pueden solicitar actualizaciones sobre su caso  
 
-## Resources
+### Considere una demanda de mandato (último recurso)
 
-- [USCIS Case Inquiry Tool](https://egov.uscis.gov/e-request/Intro.do)
-- [USCIS Processing Times](https://egov.uscis.gov/processing-times/)
-- [Contact Your Representative](https://www.house.gov/representatives/find-your-representative)
+- Para retrasos extremos, puede presentar una demanda federal para obligar a una decisión  
+- Siempre consulte con un abogado de inmigración autorizado antes de emprender acciones legales  
+
+## Cuándo no preocuparse
+
+- Si su caso aún está dentro de los tiempos de procesamiento publicados  
+- Si recientemente envió documentos o asistió a una entrevista (es normal que haya algo de demora después)  
+
+## Recursos
+
+- [Herramienta de consulta de casos de USCIS](https://egov.uscis.gov/e-request)  
+- [Tiempos de procesamiento de USCIS](https://egov.uscis.gov/processing-times/)  
+- [Contacte a su representante](https://www.house.gov/representatives/find-your-representative)  
