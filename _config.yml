@@ -114,3 +114,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+collections:
+  legal-guides-es:
+    output: true
+    permalink: /legal-guides-es/:path/
