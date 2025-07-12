@@ -5,58 +5,48 @@ permalink: /legal-guides-es/como-prepararse-para-su-audiencia-en-la-corte-de-inm
 author_profile: false
 ---
 
-## Why It Matters
+## ¿Por qué es importante?
 
-Your hearing in immigration court is a legal proceeding. Failing to prepare — or missing the hearing — can lead to serious consequences, including a removal order issued in your absence.
+Su audiencia en la corte de inmigración es un proceso legal. No prepararse — o no presentarse — puede tener consecuencias graves, incluida una orden de deportación en ausencia.
 
----
+## Qué debe llevar
 
-## What to Bring
+- Su Aviso de Comparecencia (NTA)  
+- Cualquier documento presentado ante la corte  
+- Una identificación con foto válida  
+- Pruebas de domicilio o documentos financieros (si corresponde)  
+- Toda la evidencia que respalde su caso (originales y copias)  
 
-- Your **Notice to Appear (NTA)**
-- Any **documents filed with the court**
-- A valid **photo ID**
-- Proof of residence or financial documents (if relevant)
-- Any evidence supporting your case (originals and copies)
+## Conozca el tipo de audiencia
 
----
+### Audiencia de Calendario Maestro (breve, procesal):
 
-## Know the Type of Hearing
+- Confirmará su información personal y los cargos en su contra  
+- Puede pedir tiempo para buscar un abogado  
+- No presentará todo su caso aquí  
 
-- **Master Calendar Hearing** (short, procedural):
-  - You’ll confirm your personal info and charges
-  - You may request time to find a lawyer
-  - You do **not** present your full case here
+### Audiencia Individual (audiencia completa):
 
-- **Individual Hearing** (full case hearing):
-  - You’ll present all your evidence and testimony
-  - You must bring witnesses, translators, and paperwork
-  - The judge will issue a decision or schedule another hearing
+- Presentará toda su evidencia y testimonio  
+- Debe llevar testigos, traductores y documentos  
+- El juez dará una decisión o programará otra audiencia  
 
----
+## Si necesita más tiempo
 
-## If You Need More Time
+En su primera audiencia, puede pedir al juez un aplazamiento para encontrar un abogado o preparar documentos. Muestre que está buscando ayuda legal activamente.
 
-At your first hearing, you can ask the judge for a **continuance** to find a lawyer or prepare documents. Show that you're making efforts to get legal help.
+## Si se muda antes de la audiencia
 
----
+Debe presentar el Formulario EOIR-33 ante la corte y enviar una copia al abogado del gobierno (Oficina Principal de Abogados de ICE).  
+No actualizar su dirección puede hacer que pierda avisos importantes.
 
-## If You Move Before Your Hearing
+[Descargar Formulario EOIR-33](https://www.justice.gov/eoir/page/file/1062971/download)
 
-You must file **Form EOIR-33** with the court and send a copy to the government attorney (ICE Office of Chief Counsel).  
-Failure to update your address can result in missing critical notices.
+## Qué ropa debe usar
 
-[Form EOIR-33 Download](https://www.justice.gov/eoir/page/file/1123026/download)
+Trate la audiencia como una cita legal formal. Use ropa limpia, ordenada y conservadora. Evite ropa informal como pantalones cortos, sandalias o camisetas con mensajes.
 
----
+## Recursos
 
-## What to Wear
-
-Treat the hearing like any other court appointment. Wear neat, clean, conservative clothing. Avoid casual attire like shorts, flip-flops, or slogans on T-shirts.
-
----
-
-## Resources
-
-- [EOIR Hearing Prep Guide (PDF)](https://www.justice.gov/eoir/file/eoirhearingprep/download)
-- [Pro Bono Legal Directory](https://www.immigrationadvocates.org/legaldirectory/)
+- [Guía de preparación para audiencias del EOIR (PDF)](https://www.justice.gov/eoir/page/file/1026726/download)  
+- [Directorio de ayuda legal gratuita (Pro Bono)](https://www.immigrationadvocates.org/nonprofit/legaldirectory/)
