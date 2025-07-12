@@ -5,55 +5,52 @@ permalink: /legal-guides-es/que-esperar-despues-de-solicitar-la-tarjeta-verde/
 author_profile: false
 ---
 
-## Overview
+## Resumen
 
-After filing your green card application (Form I-485 or consular processing through the NVC), several steps may follow before a final decision is made. Timelines and requirements vary depending on your category and background.
+Después de presentar su solicitud de tarjeta verde (Formulario I-485 o proceso consular a través del NVC), pueden pasar varios pasos antes de recibir una decisión final. Los tiempos y requisitos varían según su categoría migratoria y antecedentes personales.
 
----
+## Pasos comunes después de solicitarla
 
-## Common Steps After Applying
+### Aviso de recepción (Formulario I-797C)
 
-1. **Receipt Notice (Form I-797C)**
-   - Confirms that USCIS received your application
-   - Includes your receipt number to track your case
+- Confirma que USCIS recibió su solicitud  
+- Incluye su número de recibo para seguir su caso
 
-2. **Biometrics Appointment**
-   - USCIS will send a notice with a date, time, and location to take your fingerprints and photo
+### Cita de biometría
 
-3. **Request for Evidence (RFE)**
-   - If something is missing or unclear, USCIS may ask for more documents
-   - Respond by the deadline given (usually 30–87 days)
+- USCIS le enviará una notificación con la fecha, hora y lugar para tomar sus huellas digitales y fotografía
 
-4. **Interview Notice**
-   - Most applicants must attend an interview at a USCIS office
-   - Bring originals of all key documents and any updates since you filed
+### Solicitud de evidencia (RFE)
 
-5. **Final Decision**
-   - USCIS will mail your green card if approved
-   - If denied, the letter will explain why and whether you can appeal
+- Si falta algo o hay información poco clara, USCIS puede pedirle documentos adicionales  
+- Debe responder antes de la fecha límite (normalmente entre 30 y 87 días)
 
----
+### Notificación de entrevista
 
-## Typical Timeline (Adjustment of Status)
+- La mayoría de los solicitantes deben asistir a una entrevista en una oficina de USCIS  
+- Lleve los originales de todos los documentos importantes y cualquier actualización desde que presentó la solicitud
 
-| Step                     | Approximate Timing |
-|--------------------------|--------------------|
-| Receipt Notice           | 2–4 weeks after filing |
-| Biometrics Appointment   | 4–8 weeks after filing |
-| Interview (if required)  | 6–15 months after filing |
-| Decision                 | Varies widely (months to over a year)
+### Decisión final
 
----
+- USCIS le enviará la tarjeta verde por correo si aprueban su caso  
+- Si lo niegan, recibirá una carta explicando por qué y si puede apelar
 
-## Track Your Case
+## Línea de tiempo típica (ajuste de estatus)
 
-- Use the USCIS case tracker: [uscis.gov/casestatus](https://egov.uscis.gov/casestatus/)
-- Use your 13-digit receipt number (from Form I-797C)
+| Paso                   | Tiempo aproximado               |
+|------------------------|---------------------------------|
+| Aviso de recepción     | 2 a 4 semanas después de aplicar |
+| Cita de biometría      | 4 a 8 semanas después de aplicar |
+| Entrevista (si aplica) | 6 a 15 meses después de aplicar  |
+| Decisión               | Varía (de meses a más de un año) |
 
----
+## Cómo seguir su caso
 
-## Resources
+- Use el rastreador de casos de USCIS: [uscis.gov/casestatus](https://www.uscis.gov/casestatus)  
+- Ingrese su número de recibo de 13 dígitos (del Formulario I-797C)
 
-- [Form I-485 Page](https://www.uscis.gov/i-485)
-- [USCIS Case Tracker](https://egov.uscis.gov/casestatus/)
-- [Green Card Processing Times](https://egov.uscis.gov/processing-times/)
+## Recursos
+
+- [Página del Formulario I-485](https://www.uscis.gov/i-485)  
+- [Rastreador de casos de USCIS](https://www.uscis.gov/casestatus)  
+- [Tiempos de procesamiento de la tarjeta verde](https://egov.uscis.gov/processing-times/)
