@@ -1,66 +1,62 @@
 ---
 layout: single
-title: "Cómo solicitar autorización de empleo (EAD)"
+title: "Cómo solicitar autorización de empleo"
 permalink: /legal-guides-es/como-solicitar-autorizacion-de-empleo/
 author_profile: false
 ---
 
-## What Is an EAD?
+## ¿Qué es una autorización de empleo?
 
-An **Employment Authorization Document (EAD)**, also known as a work permit, allows certain non-citizens to legally work in the United States. It is not automatic — you must apply for it using the correct form and evidence.
+Una Autorización de Empleo (EAD, por sus siglas en inglés), también conocida como “work permit” o permiso de trabajo, permite a ciertas personas no ciudadanas trabajar legalmente en Estados Unidos. No se otorga automáticamente — debe solicitarla con el formulario correcto y la documentación requerida.
 
----
+## ¿Quién puede solicitarla?
 
-## Who Can Apply?
+Puede calificar si usted es:
 
-You may qualify if you are:
-- An asylum applicant (150 days after filing I-589)
-- In Temporary Protected Status (TPS)
-- Applying for Adjustment of Status (green card)
-- A DACA recipient
-- Awaiting certain court decisions
+- Solicitante de asilo (150 días después de presentar el Formulario I-589)  
+- Persona con Estatus de Protección Temporal (TPS)  
+- Solicitante de ajuste de estatus (green card)  
+- Beneficiario de DACA  
+- Persona en espera de ciertas decisiones judiciales  
 
-Each category has different rules — always check the current USCIS eligibility list.
+Cada categoría tiene reglas distintas — verifique siempre la lista actualizada de elegibilidad en el sitio web de USCIS.
 
----
+## Instrucciones paso a paso
 
-## Step-by-Step Instructions
+### Presente el Formulario I-765
 
-1. **File Form I-765**
-   - Official USCIS work permit form  
-   - Download: [uscis.gov/i-765](https://www.uscis.gov/i-765)
+- Es el formulario oficial para solicitar el permiso de trabajo  
+- Descárguelo en: [uscis.gov/i-765](https://www.uscis.gov/i-765)
 
-2. **Submit Required Documents**
-   - Proof of eligibility category (copy of I-589 receipt, TPS approval, etc.)
-   - Copy of current photo ID (passport or prior EAD)
-   - Passport-style photos
-   - Filing fee or fee waiver (Form I-912)
+### Envíe los documentos requeridos
 
-3. **Mail the Application**
-   - Follow the mailing address instructions on the USCIS site based on category and location
+- Prueba de su categoría de elegibilidad (ej. copia del recibo I-589, aprobación de TPS, etc.)  
+- Copia de una identificación válida con foto (pasaporte o EAD anterior)  
+- Fotos tipo pasaporte  
+- Pago de tarifas o solicitud de exención (Formulario I-912)
 
-4. **Receive a Decision**
-   - If approved, you’ll receive your EAD card by mail
-   - Processing time varies by category
+### Envíe la solicitud por correo
 
----
+- Siga las instrucciones del sitio web de USCIS según su categoría y lugar de residencia  
+- Use un servicio con número de rastreo para confirmar entrega
 
-## Cost and Fee Waiver
+### Reciba una decisión
 
-- Filing fee: $410  
-- Biometrics fee (some cases): $85  
-- Fee waiver: File [Form I-912](https://www.uscis.gov/i-912) if eligible
+- Si se aprueba, recibirá su tarjeta EAD por correo  
+- El tiempo de procesamiento varía según la categoría
 
----
+## Costos y exenciones
 
-## When to Renew
+- **Tarifa de presentación:** $410  
+- **Tarifa biométrica (algunos casos):** $85  
+- **Exención de tarifas:** use el [Formulario I-912](https://www.uscis.gov/i-912) si califica
 
-Start renewing **180 days before** your card expires. Many categories get **automatic 180-day extensions** if you file on time.
+## ¿Cuándo renovar?
 
----
+Puede renovar su EAD hasta 180 días antes de la fecha de vencimiento. Muchas categorías reciben una extensión automática de 180 días si presentan la renovación a tiempo.
 
-## Resources
+## Recursos útiles
 
-- [Form I-765 Overview](https://www.uscis.gov/i-765)
-- [Form I-912 (Fee Waiver)](https://www.uscis.gov/i-912)
-- [USCIS EAD Category Guide](https://www.uscis.gov/i-765-addresses)
+- [Formulario I-765](https://www.uscis.gov/i-765)  
+- [Formulario I-912 (Exención de tarifas)](https://www.uscis.gov/i-912)  
+- [Guía de categorías de elegibilidad para EAD](https://www.uscis.gov/sites/default/files/document/forms/i-765instr.pdf)
