@@ -12,3 +12,6 @@ This section provides step-by-step explanations of selected U.S. immigration pro
 - [How to Apply for Asylum in the United States](/legal-guides/apply-for-asylum/)
 - [How to Check Your Immigration Case Status](/legal-guides/check-case-status/)
 - [How to Bring a Family Member to the United States](/legal-guides/bring-family-member/)
+- [How to Prepare for an Immigration Court Hearing](/legal-guides/prepare-for-court/)
+- [How to Apply for Work Authorization (EAD)](/legal-guides/work-authorization/)
+- [What to Expect After Applying for a Green Card](/legal-guides/after-green-card/)
