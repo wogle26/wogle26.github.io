@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "How to Send Remittances Safely"
+title: "What to Know About Sending Remittances"
 permalink: /legal-guides/remittances/
 author_profile: false
 ---
