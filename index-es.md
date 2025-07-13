@@ -2,9 +2,9 @@
 layout: single
 title: "Bienvenido"
 permalink: /index-es/
+author_profile: false
 lang: es
 alt_url: /
-author_profile: false
 ---
 
 ## Misión
