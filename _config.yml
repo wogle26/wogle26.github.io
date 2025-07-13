@@ -121,3 +121,4 @@ collections:
   legal-guides:
     output: true
     permalink: /legal-guides/:path/
+    
