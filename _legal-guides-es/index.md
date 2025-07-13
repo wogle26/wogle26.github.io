@@ -1,21 +1,21 @@
 ---
 layout: single
-title: "Legal Guides"
-permalink: /legal-guides/
+title: "Guías Legales"
+permalink: /legal-guides-es/
 author_profile: false
 ---
 
-This section provides step-by-step explanations of selected U.S. immigration processes.
+Esta sección proporciona explicaciones paso a paso sobre ciertos procesos migratorios en los Estados Unidos.
 
-- [How to Apply for a Green Card](/legal-guides/green-card/)
-- [What to Do if You Receive a Notice to Appear (NTA)](/legal-guides/notice-to-appear/)
-- [How to Apply for Asylum in the United States](/legal-guides/apply-for-asylum/)
-- [How to Check Your Immigration Case Status](/legal-guides/check-case-status/)
-- [How to Bring a Family Member to the United States](/legal-guides/bring-family-member/)
-- [How to Prepare for an Immigration Court Hearing](/legal-guides/prepare-for-court/)
-- [How to Apply for Work Authorization (EAD)](/legal-guides/work-authorization/)
-- [What to Expect After Applying for a Green Card](/legal-guides/after-green-card/)
-- [How to Read and Respond to a Request for Evidence (RFE)](/legal-guides/request-for-evidence/)
-- [What Is Consular Processing and How Does It Work?](/legal-guides/consular-processing/)
-- [What to Do If Your Immigration Case Is Delayed](/legal-guides/case-delays/)
-- [How to Send Remittances Safely](/legal-guides-es/remesas/)
+- [Cómo solicitar la tarjeta verde](/legal-guides-es/como-solicitar-la-tarjeta-verde/)
+- [Qué hacer si recibe un aviso de comparecencia](/legal-guides-es/que-hacer-si-recibe-aviso-de-comparencia/)
+- [Cómo solicitar asilo](/legal-guides-es/como-solicitar-asilo/)
+- [Cómo verificar el estado de su caso](/legal-guides-es/como-verificar-el-estado-de-su-caso/)
+- [Cómo traer a un familiar a los Estados Unidos](/legal-guides-es/como-traer-a-un-familiar-a-los-estados-unidos/)
+- [Cómo prepararse para su audiencia en la corte de inmigración](/legal-guides-es/como-prepararse-para-su-audiencia-en-la-corte-de-inmigracion/)
+- [Cómo solicitar autorización de empleo](/legal-guides-es/como-solicitar-autorizacion-de-empleo/)
+- [Qué esperar después de solicitar la tarjeta verde](/legal-guides-es/que-esperar-despues-de-solicitar-la-tarjeta-verde/)
+- [Cómo responder a una solicitud de evidencia](/legal-guides-es/como-responder-a-una-solicitud-de-evidencia/)
+- [Qué es el proceso consular y cómo funciona](/legal-guides-es/que-es-el-proceso-consular-y-como-funciona/)
+- [Qué hacer si su caso está retrasado](/legal-guides-es/que-hacer-si-su-caso-esta-retrasado/)
+- [Cómo enviar remesas de forma segura](/legal-guides-es/remesas/)
