@@ -17,5 +17,5 @@ This section provides step-by-step explanations of selected U.S. immigration pro
 - [What to Expect After Applying for a Green Card](/legal-guides/after-green-card/)
 - [How to Read and Respond to a Request for Evidence (RFE)](/legal-guides/request-for-evidence/)
 - [What Is Consular Processing and How Does It Work?](/legal-guides/consular-processing/)
-- [What to Do If Your Immigration Case Is Delayed](/legal-guides/case-delays/)
 - [How to Send Remittances Safely](/legal-guides/remittances/)
+- [What to Do If Your Immigration Case Is Delayed](/legal-guides/case-delays/)
