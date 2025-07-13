@@ -3,6 +3,8 @@ layout: single
 title: "Cómo traer a un familiar a los Estados Unidos"
 permalink: /legal-guides-es/como-traer-a-un-familiar-a-los-estados-unidos/
 author_profile: false
+lang: es
+alt_url: /legal-guides/bring-family-member/
 ---
 
 ## ¿Quién puede pedir a un familiar?

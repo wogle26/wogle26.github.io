@@ -3,6 +3,8 @@ layout: single
 title: "How to Apply for Asylum in the United States"
 permalink: /legal-guides/apply-for-asylum/
 author_profile: false
+lang: en
+alt_url: /legal-guides-es/como-solicitar-asilo/
 ---
 
 ## What Is Asylum?

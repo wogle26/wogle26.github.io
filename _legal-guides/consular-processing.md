@@ -3,6 +3,8 @@ layout: single
 title: "What Is Consular Processing and How Does It Work?"
 permalink: /legal-guides/consular-processing/
 author_profile: false
+lang: en
+alt_url: /legal-guides-es/que-es-el-proceso-consular-y-como-funciona/
 ---
 
 ## What Is Consular Processing?

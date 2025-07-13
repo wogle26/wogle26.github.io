@@ -3,6 +3,8 @@ layout: single
 title: "How to Check Your Immigration Case Status"
 permalink: /legal-guides/check-case-status/
 author_profile: false
+lang: en
+alt_url: /legal-guides-es/como-verificar-el-estado-de-su-caso/
 ---
 
 ## Why Check Your Case Status?

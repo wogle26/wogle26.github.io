@@ -3,6 +3,8 @@ layout: single
 title: "How to Send Remittances Safely"
 permalink: /legal-guides/remittances/
 author_profile: false
+lang: en
+alt_url: /legal-guides-es/remesas/
 ---
 
 ## Why This Matters

@@ -3,6 +3,8 @@ layout: single
 title: "Qué hacer si recibe un Aviso de Comparecencia (NTA)"
 permalink: /legal-guides-es/que-hacer-si-recibe-aviso-de-comparencia/
 author_profile: false
+lang: es
+alt_url: /legal-guides/notice-to-appear/
 ---
 
 ### ¿Qué es un Aviso de Comparecencia?

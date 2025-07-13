@@ -3,6 +3,8 @@ layout: single
 title: "What to Do If Your Immigration Case Is Delayed"
 permalink: /legal-guides/case-delays/
 author_profile: false
+lang: en
+alt_url: /legal-guides-es/que-hacer-si-su-caso-esta-retrasado/
 ---
 
 ## What Counts as a Delay?

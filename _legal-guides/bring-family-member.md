@@ -3,6 +3,8 @@ layout: single
 title: "How to Bring a Family Member to the United States"
 permalink: /legal-guides/bring-family-member/
 author_profile: false
+lang: en
+alt_url: /legal-guides-es/como-traer-a-un-familiar-a-los-estados-unidos/
 ---
 
 ## Who Can Sponsor a Family Member?

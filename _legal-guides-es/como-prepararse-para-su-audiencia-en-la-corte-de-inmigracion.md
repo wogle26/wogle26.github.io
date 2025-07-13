@@ -3,6 +3,8 @@ layout: single
 title: "Cómo prepararse para su audiencia en la corte de inmigración"
 permalink: /legal-guides-es/como-prepararse-para-su-audiencia-en-la-corte-de-inmigracion/
 author_profile: false
+lang: es
+alt_url: /legal-guides/prepare-for-court/
 ---
 
 ## ¿Por qué es importante?

@@ -3,6 +3,8 @@ layout: single
 title: "What to Expect After Applying for a Green Card"
 permalink: /legal-guides/after-green-card/
 author_profile: false
+lang: en
+alt_url: /legal-guides-es/que-esperar-despues-de-solicitar-la-tarjeta-verde/
 ---
 
 ## Overview

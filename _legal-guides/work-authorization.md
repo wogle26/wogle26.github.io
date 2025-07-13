@@ -3,6 +3,8 @@ layout: single
 title: "How to Apply for Work Authorization (EAD)"
 permalink: /legal-guides/work-authorization/
 author_profile: false
+lang: en
+alt_url: /legal-guides-es/como-solicitar-autorizacion-de-empleo/
 ---
 
 ## What Is an EAD?

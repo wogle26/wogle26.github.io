@@ -3,6 +3,8 @@ layout: single
 title: "Cómo responder a una solicitud de evidencia"
 permalink: /legal-guides-es/como-responder-a-una-solicitud-de-evidencia/
 author_profile: false
+lang: es
+alt_url: /legal-guides/request-for-evidence/
 ---
 
 ## ¿Qué es una Solicitud de Evidencia (RFE)?

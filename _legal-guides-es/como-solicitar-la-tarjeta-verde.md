@@ -3,6 +3,8 @@ layout: single
 title: "Cómo solicitar la Tarjeta Verde"
 permalink: /legal-guides-es/como-solicitar-la-tarjeta-verde/
 author_profile: false
+lang: es
+alt_url: /legal-guides/green-card/
 ---
 
 Solicitar una Tarjeta Verde (Green Card) es un paso importante hacia la residencia legal permanente en los Estados Unidos. A continuación, se presentan los pasos clave para comenzar este proceso.

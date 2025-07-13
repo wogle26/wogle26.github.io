@@ -3,6 +3,8 @@ layout: single
 title: "Cómo enviar remesas de manera segura"
 permalink: /legal-guides-es/remesas/
 author_profile: false
+lang: es
+alt_url: /legal-guides/remittances/
 ---
 
 Enviar remesas de manera segura es esencial para proteger su dinero y ayudar eficazmente a sus seres queridos en el extranjero. Esta guía ofrece consejos prácticos y pasos confiables para enviar fondos sin problemas.

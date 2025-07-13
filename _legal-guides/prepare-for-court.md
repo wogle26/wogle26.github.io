@@ -3,6 +3,8 @@ layout: single
 title: "How to Prepare for an Immigration Court Hearing"
 permalink: /legal-guides/prepare-for-court/
 author_profile: false
+lang: en
+alt_url: /legal-guides-es/como-prepararse-para-su-audiencia-en-la-corte-de-inmigracion/
 ---
 
 ## Why It Matters

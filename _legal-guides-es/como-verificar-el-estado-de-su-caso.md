@@ -3,6 +3,8 @@ layout: single
 title: "Cómo verificar el estado de su caso"
 permalink: /legal-guides-es/como-verificar-el-estado-de-su-caso/
 author_profile: false
+lang: es
+alt_url: /legal-guides/check-case-status/
 ---
 
 ## ¿Por qué verificar el estado de su caso?

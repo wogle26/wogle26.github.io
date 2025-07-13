@@ -3,6 +3,8 @@ layout: single
 title: "How to Read and Respond to a Request for Evidence (RFE)"
 permalink: /legal-guides/request-for-evidence/
 author_profile: false
+lang: en
+alt_url: /legal-guides-es/como-responder-a-una-solicitud-de-evidencia/
 ---
 
 ## What Is an RFE?

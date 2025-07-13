@@ -3,6 +3,8 @@ layout: single
 title: "How to Apply for a Green Card"
 permalink: /legal-guides/green-card/
 author_profile: false
+lang: en
+alt_url: /legal-guides-es/como-solicitar-la-tarjeta-verde/
 ---
 
 ## Overview

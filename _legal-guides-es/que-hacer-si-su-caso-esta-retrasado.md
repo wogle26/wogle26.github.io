@@ -3,6 +3,8 @@ layout: single
 title: "Qué hacer si su caso está retrasado"
 permalink: /legal-guides-es/que-hacer-si-su-caso-esta-retrasado/
 author_profile: false
+lang: es
+alt_url: /legal-guides/case-delays/
 ---
 
 ## ¿Qué se considera un retraso?

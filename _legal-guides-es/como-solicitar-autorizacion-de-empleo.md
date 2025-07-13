@@ -3,6 +3,8 @@ layout: single
 title: "Cómo solicitar autorización de empleo"
 permalink: /legal-guides-es/como-solicitar-autorizacion-de-empleo/
 author_profile: false
+lang: es
+alt_url: /legal-guides/work-authorization/
 ---
 
 ## ¿Qué es una autorización de empleo?

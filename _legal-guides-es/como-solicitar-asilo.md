@@ -3,6 +3,8 @@ layout: single
 title: "Cómo solicitar asilo"
 permalink: /legal-guides-es/como-solicitar-asilo/
 author_profile: false
+lang: es
+alt_url: /legal-guides/apply-for-asylum/
 ---
 ## ¿Qué es el asilo?
 
