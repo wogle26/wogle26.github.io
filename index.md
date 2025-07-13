@@ -2,6 +2,8 @@
 layout: single
 title: "Welcome"
 permalink: /
+lang: en
+alt_url: /index-es/
 author_profile: false
 ---
 
