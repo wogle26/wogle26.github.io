@@ -1,8 +1,11 @@
 ---
-layout: single
-title: "Find Legal Aid"
+layout: page
+title: Find Legal Aid in Texas
 permalink: /legal-aid/
-author_profile: false
 ---
 
-This section will include a directory of trusted nonprofit legal aid services by region.
+## Legal Aid by Region
+
+Click a region to view vetted organizations providing free or low-cost immigration legal help.
+
+- [Austin](/legal-aid/austin)
