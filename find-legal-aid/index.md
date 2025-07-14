@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Find Legal Aid in Texas
 permalink: /find-legal-aid/
 ---
