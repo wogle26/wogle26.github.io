@@ -7,9 +7,9 @@ alt_url: /ayuda-legal/austin/
 region: Austin
 ---
 <style>
-main, .page__content {
-  padding-left: 2rem;
-  padding-right: 2rem;
+main, .page__content, .container, .page, .page-content {
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
 }
 </style>
 
