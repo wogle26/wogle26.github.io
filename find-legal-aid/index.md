@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Find Legal Aid in Texas
-permalink: /legal-aid/
+permalink: /find-legal-aid/
 ---
 
 ## Legal Aid by Region
