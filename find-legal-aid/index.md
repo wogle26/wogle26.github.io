@@ -8,4 +8,4 @@ permalink: /find-legal-aid/
 
 Click a region to view vetted organizations providing free or low-cost immigration legal help.
 
-- [Austin](/legal-aid/austin)
+- [Austin](/find-legal-aid/austin)
