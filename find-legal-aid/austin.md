@@ -1,7 +1,7 @@
 ---
 title: Legal Aid in Austin
 lang: en
-layout: page
+layout: default
 permalink: /find-legal-aid/austin/
 alt_url: /ayuda-legal/austin/
 region: Austin
