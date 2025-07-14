@@ -7,15 +7,6 @@ alt_url: /ayuda-legal/austin/
 region: Austin
 ---
 
-<style>
-  .legal-aid-content {
-    padding-left: 2rem;
-    padding-right: 2rem;
-  }
-</style>
-
-<div class="legal-aid-content">
-
 Below are trusted nonprofit organizations in the Austin area that provide free or low-cost immigration legal services. Each organization has been vetted to ensure accurate and up-to-date information.
 
 ---
@@ -62,5 +53,3 @@ Below are trusted nonprofit organizations in the Austin area that provide free o
 **Website:** [law.utexas.edu/clinics/immigration](https://law.utexas.edu/clinics/immigration/)  
 **Services:** Asylum, SIJS, VAWA, Removal Defense  
 **Help With:** USCIS filings, immigration court, BIA, federal litigation
-
-</div>
