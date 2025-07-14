@@ -6,10 +6,11 @@ permalink: /find-legal-aid/austin/
 alt_url: /ayuda-legal/austin/
 region: Austin
 ---
+
 <div style="padding-left: 2rem; padding-right: 2rem;">
 Below are trusted nonprofit organizations in the Austin area that provide free or low-cost immigration legal services. Each organization has been vetted to ensure accurate and up-to-date information.
 
----
+<hr>
 
 ### American Gateways – Austin Office  
 **Location:** 314 E. Highland Mall Blvd., Suite 501, Austin, TX 78752  
@@ -18,7 +19,7 @@ Below are trusted nonprofit organizations in the Austin area that provide free o
 **Services:** Adjustment of Status, Asylum, DACA, Employment Authorization, Family Petitions, Naturalization, TPS, U Visas, VAWA  
 **Help With:** USCIS filings, asylum interviews, immigration court representation
 
----
+<hr>
 
 ### Catholic Charities of Central Texas – Immigration Legal Services  
 **Location:** 1625 Rutherford Ln., Austin, TX 78754  
@@ -27,7 +28,7 @@ Below are trusted nonprofit organizations in the Austin area that provide free o
 **Services:** Family Petitions, DACA, Naturalization, Adjustment of Status  
 **Help With:** Completing forms, USCIS filings
 
----
+<hr>
 
 ### RAICES – Austin Office  
 **Location:** 314 E. Highland Mall Blvd., Suite 204, Austin, TX 78752  
@@ -36,7 +37,7 @@ Below are trusted nonprofit organizations in the Austin area that provide free o
 **Services:** Asylum, Adjustment of Status, DACA, Removal Defense, SIJS, TPS, U Visas, VAWA  
 **Help With:** USCIS filings, asylum interviews, immigration court, BIA, federal appeals
 
----
+<hr>
 
 ### Texas RioGrande Legal Aid – Austin Office  
 **Location:** 4920 N. IH-35, Austin, TX 78751  
@@ -45,7 +46,7 @@ Below are trusted nonprofit organizations in the Austin area that provide free o
 **Services:** DACA, Naturalization, Removal Defense, SIJS, T & U Visas, VAWA  
 **Help With:** Forms, USCIS filings, immigration court, BIA, federal appeals
 
----
+<hr>
 
 ### University of Texas Immigration Law Clinic  
 **Location:** 727 E. Dean Keeton St., Austin, TX 78705  
@@ -54,5 +55,4 @@ Below are trusted nonprofit organizations in the Austin area that provide free o
 **Services:** Asylum, SIJS, VAWA, Removal Defense  
 **Help With:** USCIS filings, immigration court, BIA, federal litigation
 
----
 </div>
