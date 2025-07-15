@@ -11,3 +11,4 @@ Click a region to view vetted organizations providing free or low-cost immigrati
 - [Austin](/find-legal-aid/austin)
 - [San Antonio](/find-legal-aid/san-antonio)
 - [Dallas–Fort Worth](/find-legal-aid/dallas-fort-worth)
+- [Houston](/find-legal-aid/houston)
