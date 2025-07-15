@@ -16,3 +16,4 @@ Haga clic en una región para ver organizaciones de confianza que ofrecen asiste
 - [Dallas–Fort Worth](/ayuda-legal/dallas-fort-worth/)
 - [Houston](/ayuda-legal/houston/)
 - [El Paso](/ayuda-legal/el-paso/)
+- [Valle del Río Grande](/ayuda-legal/valle-del-rio-grande/)
