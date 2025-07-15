@@ -124,4 +124,7 @@ collections:
   ayuda-legal:
     output: true
     permalink: /ayuda-legal/:path/
+  form-help:
+    output: true
+    permalink: /form-help/:path/
     
