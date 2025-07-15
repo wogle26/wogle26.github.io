@@ -121,4 +121,7 @@ collections:
   legal-guides:
     output: true
     permalink: /legal-guides/:path/
+  ayuda-legal:
+    output: true
+    permalink: /ayuda-legal/:path/
     
