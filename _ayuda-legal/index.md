@@ -13,3 +13,4 @@ Haga clic en una región para ver organizaciones de confianza que ofrecen asiste
 
 - [Austin](/ayuda-legal/austin)
 - [Ayuda Legal en San Antonio](/ayuda-legal/san-antonio/)
+- [Dallas–Fort Worth](/ayuda-legal/dallas-fort-worth/)
