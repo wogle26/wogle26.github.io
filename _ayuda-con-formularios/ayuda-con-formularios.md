@@ -2,7 +2,7 @@
 title: Ayuda con Formularios de Inmigración
 lang: es
 layout: single
-permalink: /ayuda-con-formularios/
+permalink: /ayuda-con-formularios/form-help/
 alt_url: /form-help/
 ---
 
