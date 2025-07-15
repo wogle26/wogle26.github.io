@@ -12,7 +12,7 @@ Navigating U.S. immigration forms can be confusing. This page links directly to 
 
 ---
 
-## 🗂 Common Immigration Forms
+## Common Immigration Forms
 
 ### **Form I-130 – Petition for Alien Relative**
 Used to establish a family relationship between a U.S. citizen or permanent resident and a noncitizen relative.
@@ -55,7 +55,7 @@ Used to apply for a green card if you’re already inside the U.S.
 Allows eligible immigrants to apply for advance parole, refugee travel, or reentry permits.
 
 - [USCIS Form I-131](https://www.uscis.gov/i-131)
-- ⚠️ **Warning:** Leaving the U.S. without this may cancel some applications
+- **Warning:** Leaving the U.S. without this may cancel some applications
 
 ---
 
@@ -67,7 +67,7 @@ Used to officially declare that a lawyer or accredited representative is helping
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 - Always double-check you are using the **latest form version** on [uscis.gov](https://www.uscis.gov).
 - Filling out a form incorrectly can delay or harm your case.
@@ -75,7 +75,7 @@ Used to officially declare that a lawyer or accredited representative is helping
 
 ---
 
-## ➕ Coming Soon
+## Coming Soon
 
 - Downloadable PDF checklists for Forms I-130, I-589, and I-765  
 - Spanish version of this page: [Ayuda con Formularios](/ayuda-con-formularios/)
