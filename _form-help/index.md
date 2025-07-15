@@ -1,8 +1,10 @@
 ---
-layout: single
 title: "Form Help"
+layout: collection
 permalink: /form-help/
-author_profile: false
+lang: en
+alt_url: /ayuda-con-formularios/
+collection: form-help
+entries_layout: list
 ---
-
-This section will include guides to common USCIS forms and tips on how to complete them correctly.
+This section offers guides on how to find, complete, and submit common immigration forms. All information links to official sources and is presented in plain, respectful language.
