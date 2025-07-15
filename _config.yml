@@ -127,4 +127,7 @@ collections:
   form-help:
     output: true
     permalink: /form-help/:path/
+  ayuda-con-formularios:
+    output: true
+    permalink: /ayuda-con-formularios/:path/
     
