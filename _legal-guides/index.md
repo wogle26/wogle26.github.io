@@ -2,6 +2,8 @@
 layout: single
 title: "Legal Guides"
 permalink: /legal-guides/
+lang: en
+alt_url: /legal-guides-es/
 author_profile: false
 ---
 
