@@ -130,4 +130,10 @@ collections:
   ayuda-con-formularios:
     output: true
     permalink: /ayuda-con-formularios/:path/
+  systems:
+    output: true
+    permalink: /systems/:path/
+  sistemas:
+    output: true
+    permalink: /sistemas/:path/
     
