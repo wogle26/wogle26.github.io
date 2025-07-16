@@ -12,11 +12,11 @@ Whether you're attending a USCIS appointment, appearing in immigration court, or
 
 ### Topics in This Section:
 
-- What happens during a **USCIS appointment** or interview?
-- What should you expect in **immigration court**?
-- How can you request **language interpretation**?
-- What do **official legal notices** actually mean?
-- How do **legal aid clinics** operate?
-- What translation help is available in **hospitals and public offices**?
+- [**USCIS appointments**](/systems/uscis-appointment/): What happens during a USCIS appointment or interview?
+- [**Immigration court**](/systems/immigration-court/): What should you expect in immigration court?
+- [**Language interpretation services**](/systems/language-access/): How can you request an interpreter or translated materials?
+- [**Legal notices and letters**](/systems/understanding-notices/): What do official legal notices like RFEs and NTAs actually mean?
+- [**Legal aid clinics**](/systems/legal-clinic-help/): How do nonprofit legal clinics operate, and what can they help with?
+- [**Language help in hospitals and public offices**](/systems/language-support-in-hospitals/): What translation support is available outside the legal system?
 
 Each page is written in simple language and is available in English and Spanish.
