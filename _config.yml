@@ -136,4 +136,7 @@ collections:
   sistemas:
     output: true
     permalink: /sistemas/:path/
+  glossary:
+    output: true
+    permalink: /glossary/:name/
     
