@@ -1,7 +1,9 @@
 ---
 layout: single
 title: Find Legal Aid in Texas
+lang: en
 permalink: /find-legal-aid/
+alt_url: /ayuda-legal/
 ---
 
 ## Legal Aid by Region
