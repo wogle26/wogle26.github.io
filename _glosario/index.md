@@ -1,19 +1,21 @@
 ---
-layout: single
-title: Glossary of Immigration Terms
-permalink: /glossary/
-lang: en
-alt_url: /glosario/
-exclude_from_index: true
+title: Glosario de Términos Legales
+layout: glossary
+lang: es
+alt_url: /glossary/
+permalink: /glosario/
 ---
 
-This glossary provides plain-language explanations of common terms used in U.S. immigration law and processes. Each entry links to a detailed page for further reading.
+Este glosario proporciona definiciones claras y concisas de términos comunes utilizados en procesos legales y de inmigración en los Estados Unidos. Está diseñado para ayudarle a comprender mejor sus derechos, formularios y procedimientos legales.
 
-{% assign glossary_entries = site.glossary | sort: "title" %}
-<ul>
-  {% for entry in glossary_entries %}
-    {% unless entry.exclude_from_index %}
-      <li><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></li>
+---
+
+{% assign sorted_glossary = site.glosario | sort: 'title' %}
+
+<ul class="glossary-list">
+  {% for entry in sorted_glossary %}
+    {% unless entry.url == page.url %}
+      <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
     {% endunless %}
   {% endfor %}
 </ul>
