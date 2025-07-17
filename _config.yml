@@ -139,4 +139,7 @@ collections:
   glossary:
     output: true
     permalink: /glossary/:name/
+  glosario:
+    output: true
+    permalink: /glosario/:name/
     
