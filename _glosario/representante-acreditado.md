@@ -1,43 +1,43 @@
 ---
-title: Accredited Representative
+title: Representante Acreditado
 layout: single
-lang: en
-alt_url: /glosario/representante-acreditado/
-permalink: /glossary/accredited-representative/
+lang: es
+alt_url: /glossary/accredited-representative/
+permalink: /glosario/representante-acreditado/
 ---
 
-An **accredited representative** is a non-attorney who is authorized by the U.S. Department of Justice (DOJ) to represent individuals in immigration legal matters.
+Un **representante acreditado** es una persona que no es abogada pero que está autorizada por el Departamento de Justicia de los Estados Unidos (DOJ) para representar a personas en asuntos legales de inmigración.
 
-## What Do They Do?
+## ¿Qué Hacen?
 
-Accredited representatives can:
+Los representantes acreditados pueden:
 
-- Provide **legal advice** on immigration matters
-- Help you complete immigration forms
-- Represent you in **immigration court** (if fully accredited)
-- Attend interviews with immigration authorities (like USCIS)
+- Brindar **asesoría legal** en temas de inmigración  
+- Ayudar a completar formularios de inmigración  
+- Representarte en la **corte de inmigración** (si están totalmente acreditados)  
+- Acompañarte a entrevistas con autoridades migratorias (como USCIS)  
 
-They must work for a **recognized nonprofit organization** and cannot charge high legal fees.
+Deben trabajar para una **organización sin fines de lucro reconocida** y no pueden cobrar tarifas legales altas.
 
-## Types of Accreditation
+## Tipos de Acreditación
 
-- **Partial Accreditation**: Can represent individuals before **USCIS** and **other immigration agencies**, but not in court.
-- **Full Accreditation**: Can also represent individuals in **immigration court (EOIR)**.
+- **Acreditación Parcial**: Pueden representar a personas ante **USCIS** y **otras agencias de inmigración**, pero **no en la corte**.  
+- **Acreditación Completa**: También pueden representar a personas en la **corte de inmigración (EOIR)**.
 
-## Why Use One?
+## ¿Por Qué Usar Uno?
 
-They offer **affordable** or **free** legal help, especially for low-income individuals. This makes legal services more accessible for immigrants who cannot afford a private attorney.
+Ofrecen ayuda legal **gratuita** o **de bajo costo**, especialmente para personas de bajos ingresos. Esto hace que los servicios legales sean más accesibles para quienes no pueden pagar un abogado privado.
 
-## How to Verify
+## Cómo Verificar
 
-- Accredited representatives are listed in the **DOJ’s official registry**
-- You can check the list here: [EOIR Recognized Organizations and Accredited Representatives](https://www.justice.gov/eoir/recognition-accreditation-roster-reports)
+- Los representantes acreditados están listados en el **registro oficial del DOJ**  
+- Puedes consultar la lista aquí: [Organizaciones Reconocidas y Representantes Acreditados de EOIR](https://www.justice.gov/eoir/recognition-accreditation-roster-reports)
 
-## Related Terms
+## Términos Relacionados
 
-- [USCIS](/glossary/uscis/)
-- [EOIR](/glossary/eoir/)
-- [Legal Aid Clinic](/glossary/legal-aid-clinic/)
-- [Notario Fraud](/glossary/notario-fraud/)
+- [USCIS](/glosario/uscis/)
+- [EOIR](/glosario/eoir/)
+- [Clínica de Asistencia Legal](/glosario/clinica-de-asistencia-legal/)
+- [Fraude Notarial](/glosario/fraude-notarial/)
 
-> This page is for informational purposes only and does not offer legal advice.
+> Esta página es solo para fines informativos y no ofrece asesoría legal.
