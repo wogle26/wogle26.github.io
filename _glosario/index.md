@@ -1,6 +1,6 @@
 ---
 title: Glosario de Términos Legales
-layout: glossary
+layout: single
 lang: es
 alt_url: /glossary/
 permalink: /glosario/
