@@ -9,7 +9,7 @@ alt_url: /index-es/
 
 ## Mission
 
-This site is a student-led resource hub offering neutral, clearly written information to help individuals better understand aspects of the U.S. immigration process. It draws entirely from publicly available government sources and is intended as a practical reference, not legal advice.
+This resource hub offers objective, clearly written information to help individuals better understand aspects of the U.S. immigration process. It draws entirely from publicly available government sources and is intended as a practical reference, not legal advice.
 
 **Disclaimer:** This site is not affiliated with any law firm, nonprofit, or government entity. It does not provide legal advice or services. Content is for informational purposes only and based on public data from agencies such as USCIS and EOIR.
 
