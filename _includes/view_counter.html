@@ -1,0 +1,21 @@
+<div class="views" style="font-size:0.95rem; opacity:0.85;">
+  <span class="views__num" id="viewcount" data-slug="{{ page.url | escape }}">—</span> views
+</div>
+
+<script>
+(function(){
+  const API_BASE = "https://legal-clarity-views.wogle26.workers.dev"; // your Worker URL
+
+  const el = document.getElementById("viewcount");
+  if (!el) return;
+  const slug = el.dataset.slug || window.location.pathname;
+
+  fetch(`${API_BASE}/view?slug=${encodeURIComponent(slug)}`, { method: "POST" })
+    .then(r => r.json())
+    .then(d => {
+      if (typeof d.count === "number") el.textContent = d.count.toLocaleString();
+      else el.textContent = "—";
+    })
+    .catch(() => { el.textContent = "—"; });
+})();
+</script>
